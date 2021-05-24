@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "jwt.prefix",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.prefix'"
+  },
+  {
+    "name": "jwt.header",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.header'"
+  },
+  {
+    "name": "admin.email",
+    "type": "java.lang.String",
+    "description": "A description for 'admin.email'"
+  },
+  {
+    "name": "file.upload-dir",
+    "type": "java.lang.String",
+    "description": "A description for 'file.upload-dir'"
+  },
+  {
+    "name": "admin.password",
+    "type": "java.lang.String",
+    "description": "A description for 'admin.password'"
+  },
+  {
+    "name": "jwt.expires-in",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.expires-in'"
+  },
+  {
+    "name": "jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.secret'"
+  }
+]}
